@@ -14,3 +14,5 @@ function setUp() {
 	var terminator = document.getElementById("spoiler");
 	terminator.addEventListener("click", Remover, false);
 }
+
+
